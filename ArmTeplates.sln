@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ArmTeplates", "ArmTeplates\ArmTeplates.deployproj", "{2C239879-DA22-4EE8-87A3-17721D43030B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C239879-DA22-4EE8-87A3-17721D43030B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C239879-DA22-4EE8-87A3-17721D43030B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C239879-DA22-4EE8-87A3-17721D43030B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C239879-DA22-4EE8-87A3-17721D43030B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C655F395-94F7-4397-979B-96D1D4605754}
+	EndGlobalSection
+EndGlobal
